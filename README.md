@@ -1,2 +1,22 @@
-# Quad-hacks-CB181
-reducing of wastage of food
+WE HAVE CREATED A WEBSITE ON 
+PROBLEM STATEMENT :
+FOOD WASTAGE REDUCTION SOLUTION
+OUR TEAM NAME IS CB181,QUAD HACKS 
+\
+
+\
+WE HAVE USED HTML AND CSS TO CREATE THIS WEBSITE
+
+
+WE HAVE CREATED PAGES
+1. LOGIN PAGE
+2. HOME PAGE
+3. SOLUTION PAGE
+4. DONATION PAGE
+5. FOOD PRESERVATION PAGE
+
+   WE HAVE CREATED THIS WEBSITE IN VERY SHORT TIME SO THIS IS A SHORT WEBSITE AND A TEMPLATE
+
+   We will add more pages and add more data to this website now,
+   we  r thinking to spread this website among many people , to spread awareness of food wastage .
+   

@@ -1,0 +1,296 @@
+//** MAIN PAGE**//
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Food Waste Reduction Solutions</title>
+    <link rel="stylesheet" href="stylesss.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="logo.png" alt="Logo">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="solution.html">Solution</a></li>
+                <li><a href="donation.html">Food Donation</a></li>
+                <li><a href="prep.html">Food Preservation</a></li>
+  <h1>Save A Bite</h1>
+            </ul>
+        </nav>
+        <div class="search-bar">
+            <input type="text" placeholder="Search...">
+            <button>Search</button>
+        </div>
+    </header>
+    <section class="hero">
+       <a href="https://imgbb.com/"><img src="https://i.ibb.co/x7xQ0V0/download-food.jpg" alt="food" border="0"></a>
+        <h1>Reduce Food Waste and Save the Environment</h1>
+        <a href="solutions.html" class="cta-button">Discover Solutions</a>
+    </section>
+    <section class="solutions">
+        <h2>Food Waste Reduction  <li><a href="solution.html">Solution</a></li></h2>
+        <p>Learn about different solutions to reduce food waste and save the environment.</p>
+        <a href="solutions.html" class="cta-button">Explore Solutions</a>
+    </section>
+    <section class="testimonials">
+        <a href="https://imgbb.com/"><img src="https://i.ibb.co/TLCYqT2/aaa.jpg" alt="aaa" border="0"></a>
+        </div>
+    </section>
+    <section class="statistics">
+        <h2>Food Waste Statistics</h2>
+        <ul>
+            <li>30% of food produced for human consumption is wasted.</li>
+            <li>Food waste is responsible for 8% of greenhouse gas emissions.</li>
+            <li>Food waste costs the global economy $2.5 trillion per year.</li>
+        </ul>
+    </section>
+    <footer>
+        <p>&copy; 2022 Food Waste Reduction Solutions. All rights reserved.</p>
+        <div class="social-media">
+            <a href="#">Facebook</a>
+            <a href="#">Twitter</a>
+            <a href="https://www.instagram.com/raxhitzz?igsh=MXQyNnhnYmFzMHQybg== ">Instagram</a>
+        </div>
+    </footer>
+</body>
+</html>
+
+
+
+
+
+((DONATION PAGE ))
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Food Donation</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Food Donation</h1>
+        <nav>
+            <ul>
+                <li><a href="main web.html">Home</a></li>
+                <li><a href="solution.html">Solutions</a></li>
+              
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Donate Food</h2>
+        <form action="submit-donation.php" method="post">
+            <label for="food-name">Food Name:</label>
+            <input type="text" id="food-name" name="food_name" required>
+
+            <label for="quantity">Quantity:</label>
+            <input type="number" id="quantity" name="quantity" min="1" required>
+
+            <label for="pickup-date">Pickup Date:</label>
+            <input type="date" id="pickup-date" name="pickup_date" required>
+
+            <label for="pickup-time">Pickup Time:</label>
+            <input type="time" id="pickup-time" name="pickup_time" required>
+
+            <label for="pickup-address">Pickup Address:</label>
+            <input type="text" id="pickup-address" name="pickup_address" required>
+
+            <input type="submit" value="Donate Now">
+        </form>
+    </main>
+    <footer>
+        <p>&copy; 2023 Food Donation Interface. All rights reserved.</p>
+        <div class="social-media">
+            <a href="#">Facebook</a>
+            <a href="#">Twitter</a>
+            <a href="#">Instagram</a>
+        </div>
+    </footer>
+</body>
+</html>
+
+
+
+
+
+
+((SOLUTION PAGE ))
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Food Waste Reduction Solutions</title>
+<style>
+title{
+color: black;
+font-weight: bold;}
+</style>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Food Waste Reduction Solutions</h1>
+        <nav>
+            <ul>
+                <li><a href="main web.html">Home</a></li>
+                <li><a href="donation.html">Food Donation</a></li>
+              
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Food Donation</h2>
+        <p>Donating food is a great way to reduce food waste and help those in need. Here are some tips for donating food:</p>
+        <ul>
+            <li>Check the expiration dates of the food you want to donate. Donate food that is still fresh and safe to eat.</li>
+            <li>Consider donating non-perishable food items, such as canned goods, pasta, and rice.</li>
+            <li>Contact your local food bank or pantry to find out what types of food they need and how to donate.</li>
+            <li>Consider hosting a food drive to collect donations from your community.</li>
+            <li>Check if your employer matches donations to increase the impact of your donation.</li>
+        </ul>
+        <p>By donating food, you can help reduce food waste and provide meals for those in need.</p>
+    </main>
+    <footer>
+        <p>&copy; 2023 Food Waste Reduction Solutions. All rights reserved.</p>
+        <div class="social-media">
+            <a href="#">Facebook</a>
+            <a href="#">Twitter</a>
+            <a href="#">Instagram</a>
+        </div>
+    </footer>
+</body>
+</html>
+
+
+
+
+
+
+((PRESERVATION PAGE )))
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Food Preservation</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://apis.google.com/js/platform.js" async defer></script>
+    <meta name="google-signin-client_id" content="YOUR_CLIENT_ID.apps.googleusercontent.com">
+</head>
+<body>
+    <header>
+        <h1>Food Preservation</h1>
+        <nav>
+            <ul>
+                <li><a href="main web.html">Home</a></li>
+                <li><a href="donation.html">Food Donation</a></li>
+                <li><a href="solution.html">solution</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Preserve Your Food</h2>
+        <p>Preserving food is a great way to reduce food waste and save money. Here are some tips for preserving food:</p>
+        <ul>
+            <li>Use the right preservation method for the right food. For example, canning is great for high-acid foods like fruits, while freezing is better for meats and vegetables.</li>
+            <li>Prepare your food properly before preserving it. For example, blanch vegetables before freezing them to stop the enzyme activity that can cause spoilage.</li>
+            <li>Store your preserved food in a cool, dry, and dark place to prevent spoilage.</li>
+            <li>Check your preserved food regularly for signs of spoilage, such as mold, off odors, or changes in texture or color.</li>
+            <li>Use the freshest food possible for preservation to ensure the best quality and safety.</li>
+        </ul>
+        <h3>Google Sign-In</h3>
+        <div class="g-signin2" data-onsuccess="onSignIn"></div>
+        <div id="user-info"></div>
+        <script>
+            function onSignIn(googleUser) {
+                var profile = googleUser.getBasicProfile();
+                document.getElementById("user-info").innerHTML = "<p>Welcome, " + profile.getName() + "!</p>";
+            }
+        </script>
+    </main>
+    <footer>
+        <p>&copy; 2023 Food Preservation Interface. All rights reserved.</p>
+        <div class="social-media">
+            <a href="#">Facebook</a>
+            <a href="#">Twitter</a>
+            <a href="#">Instagram</a>
+        </div>
+    </footer>
+</body>
+</html>
+
+
+
+
+
+
+(STYLES CSS))
+
+
+body {
+  background-color: #f5f5f5;
+  font-family: Arial, sans-serif;
+}
+header {
+  background-color: #87CEEB;
+  color: #fff;
+  padding: 1em;
+}
+header h1 {
+  margin: 0;
+text-align:center;
+text-stroke: 2px, #000000 ;}
+main {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 2em;
+
+}
+section {
+  flex: 2;
+  margin-right: 2em;
+}
+aside {
+  flex: 1;
+}
+aaa.jpeg {
+  width: 100%;
+  height: auto;
+}
+h2 {
+  margin-top: 0;
+font-weight: bold;
+font-size: 45px
+}
+h3 {
+  margin-top: 0;
+}
+
+p {
+font-family: "Times";
+font-align: center;
+
+
+title{
+color: black;
+font-weight: bold;
+text-align: center;}
